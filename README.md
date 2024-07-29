@@ -1,8 +1,8 @@
 # cepbk
 
-Comprehensive Extraordinary Project Bootstrapping Kit
+Comprehensive Extraordinary Project Bootstrapping Kit For Full-Stack
 
-## build
+## framework
 
 ### nx (Smart Monorepos · Fast CI)
 
@@ -20,29 +20,11 @@ Comprehensive Extraordinary Project Bootstrapping Kit
 
 - [vuepress](https://github.com/vuejs/vuepress)
 
-### javascript-obfuscator(A powerful obfuscator for JavaScript and Node.js)
+### rspress(A fast Rspack-based static site generator.)
 
-- [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
+- [rspress](https://github.com/web-infra-dev/rspress)
 
-## CSS
-
-### 动画效果
-
-- [loadership](https://github.com/ccc159/loadership)
-
-## DOC 文档生成
-
-### ndoc
-
-- [ndoc](https://github.com/nodeca/ndoc)
-
-### jsDoc
-
-- [ndoc](https://github.com/nodeca/ndoc)
-
-## 图表
-
-- [plot](https://github.com/observablehq/plot)
+---
 
 ## lowcode
 
@@ -50,4 +32,56 @@ Comprehensive Extraordinary Project Bootstrapping Kit
   - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
   - **4.6k+**
 
+---
+
+## CSS
+
+### 动画效果
+
+- [loadership](https://github.com/ccc159/loadership)
+
+---
+
+## 图表
+
+### plot
+
+- [plot](https://github.com/observablehq/plot)
+
+---
+
+## qrcode
+
+### widget-qrcode
+
+- [widget-qrcode](https://github.com/mumuy/widget-qrcode)
+
+---
+
+## Debug
+
+### vConsole(A lightweight, extendable front-end developer tool for mobile web page.)
+
+- [vConsole](https://github.com/Tencent/vConsole)
+
+---
+
 # enjoyment
+
+## others
+
+### ip-info-api(Free IP information query APIs)
+
+- [ip-info-api](https://github.com/ihmily/ip-info-api)
+
+### MyIP(The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!)
+
+- [](https://github.com/jason5ng32/MyIP)
+
+### smartdns(A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. )
+
+- [smartdns](https://github.com/pymumu/smartdns)
+
+### dotenv
+
+- [dotenv](https://github.com/motdotla/dotenv)
