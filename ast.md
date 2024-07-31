@@ -1,3 +1,3 @@
 ### acorn
 
-- [acorn](https://github.com/acornjs/acorn)
+> [acorn](https://github.com/acornjs/acorn)
