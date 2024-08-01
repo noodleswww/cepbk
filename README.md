@@ -4,9 +4,17 @@ Comprehensive Extraordinary Project Bootstrapping Kit For Full-Stack
 
 ## framework
 
+### taro
+
+> [taro](https://github.com/NervJS/taro)
+
 ### nx
 
 > [nx](https://github.com/nrwl/nx) (Smart Monorepos · Fast CI)
+
+### espree
+
+> [espree](https://github.com/eslint/espree) (Monorepo for the JS language tools.)
 
 ### vitepress
 
@@ -30,6 +38,11 @@ Comprehensive Extraordinary Project Bootstrapping Kit For Full-Stack
 
 - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - **4.6k+**
+
+> [appsmith](https://github.com/appsmithorg/appsmith)
+
+> [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) (About
+> H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks.)
 
 ## CSS
 

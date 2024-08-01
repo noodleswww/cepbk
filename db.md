@@ -17,3 +17,7 @@
 ### drawdb
 
 > [drawdb](https://github.com/drawdb-io/drawdb)
+
+### Dexie.js
+
+> [Dexie.js](https://github.com/dexie/Dexie.js) (A Minimalistic Wrapper for IndexedDB)
