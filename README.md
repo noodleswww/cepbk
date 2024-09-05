@@ -37,14 +37,13 @@ Comprehensive Extraordinary Project Bootstrapping Kit For Full-Stack
 > [plasmic](https://github.com/plasmicapp/plasmic)
 
 - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
-- **4.6k+**
 
 > [appsmith](https://github.com/appsmithorg/appsmith)
 
 > [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) (About
 > H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks.)
 
-> [marsview](https://github.com/JackySoft/marsview
+> [marsview](https://github.com/JackySoft/marsview)
 
 ## CSS
 
