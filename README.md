@@ -45,6 +45,9 @@ Comprehensive Extraordinary Project Bootstrapping Kit For Full-Stack
 
 > [marsview](https://github.com/JackySoft/marsview)
 
+## video
+> [revideo](https://github.com/redotvideo/revideo)
+
 ## CSS
 
 ### 动画效果
