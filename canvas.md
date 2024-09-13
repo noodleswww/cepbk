@@ -5,3 +5,6 @@
 ### canvas-special
 
 > [canvas-special](https://github.com/bxm0927/canvas-special)
+
+### canvas-confetti
+> [canvas-confetti](https://github.com/catdad/canvas-confetti)
