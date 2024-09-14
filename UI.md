@@ -5,3 +5,6 @@
 ### driver.js
 
 > [driver.js](https://github.com/kamranahmedse/driver.js) (A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page)
+
+### hugeicons-react
+> [hugeicons-react](https://github.com/hugeicons/hugeicons-react)
