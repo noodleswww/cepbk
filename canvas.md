@@ -10,4 +10,5 @@
 > [canvas-confetti](https://github.com/catdad/canvas-confetti)
 
 ### icegl-three-vue-tres
+3D visualization
 > [https://github.com/hawk86104/icegl-three-vue-tres]
