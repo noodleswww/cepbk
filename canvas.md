@@ -12,3 +12,6 @@
 ### icegl-three-vue-tres
 3D visualization
 > [https://github.com/hawk86104/icegl-three-vue-tres]
+
+### facesjs
+> [[facesjs](https://github.com/zengm-games/facesjs)]
